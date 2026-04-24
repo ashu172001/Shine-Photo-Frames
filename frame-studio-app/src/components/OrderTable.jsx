@@ -4,7 +4,7 @@ import jsPDF from "jspdf";
 import autoTable from "jspdf-autotable";
 import "./OrderTable.css";
 
-const API_BASE = "https://shine-photo-frames.onrender.com/";
+const API_BASE = "https://shine-photo-frames.onrender.com";
 
 // Predefined Frame Sizes (sorted)
 const FRAME_SIZES = [
